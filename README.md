@@ -62,7 +62,7 @@ Annual Savings: $57,120 (42% of net income)
 ![Income Breakdown](incomebreakdown.png)
 ![Expenses Breakdown](Expensesbreakdown.png)
 ![%Saving And %Expenses Pie Chart](Expenses&Saving_piechart.png)
-![%Saving And %Expenses](%Expenses&Saving_Doughnut.png)
+![%Saving And %Expenses](https://github.com/Aisudan47/ExcelProjectWeek00/blob/d21e6d815ff6d6d9b3a440fa22919deb1ea7c403/%25Expenses%26Saving_Doughnut.png)
 *Example: Annual income and expense visualization.*
 
 ---
