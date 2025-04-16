@@ -22,6 +22,7 @@ A professional Excel-based tool for tracking income, expenses, and savings, desi
 ---
 
 ### Annual Income
+##
 | Component       | Amount       |
 |-----------------|--------------|
 | Salary          | $200,000     |
@@ -31,6 +32,7 @@ A professional Excel-based tool for tracking income, expenses, and savings, desi
 | **Net Income**  | **$136,000** |
 ##
 ### Expenses (58% of Budget)
+##
 | Category        | Amount       |
 |-----------------|--------------|
 | Rent            | $42,000      |
@@ -60,19 +62,19 @@ A professional Excel-based tool for tracking income, expenses, and savings, desi
 ---
 
  
-- **Income Breakdown:**
+- ### **Income Breakdown:**
 ##
  ![Income Breakdown](incomebreakdown.png)
  ##
-- **Expense Breakdown:**
+- ### **Expense Breakdown:**
 ##
  ![Expenses Breakdown](Expensesbreakdown.png)
  ##
- - **%Saving And %Expenses Pie Chart:**
+ - ### **%Saving And %Expenses Pie Chart:**
 ##
 ![%Saving And %Expenses Pie Chart](Expenses&Saving_piechart.png)
 ##
-- **%Saving And %Expenses Doughnut:**
+- ### **%Saving And %Expenses Doughnut:**
 ##
 ![%Saving And %Expenses](https://github.com/Aisudan47/ExcelProjectWeek00/blob/d21e6d815ff6d6d9b3a440fa22919deb1ea7c403/%25Expenses%26Saving_Doughnut.png)
 *
